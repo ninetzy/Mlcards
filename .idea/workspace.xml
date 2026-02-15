@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b5e3d2b6-bc54-47d3-90db-740f4b9ecec9" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/MLcards.iml" afterDir="false" />
